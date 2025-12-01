@@ -220,14 +220,14 @@ display: none;
     font-size: 3rem;  
     color: #6a0dad; 
 }
-.answer-input {
+.text-input {
     font-size: 1rem;
     color: #6a0dad;
     border: 1px solid #ccc;
     transition: border-color 0.3s ease;
 }
 
-.answer-input:focus {
+.text-input:focus {
     border-color: #6a0dad;
     box-shadow: 0 0 5px rgba(106, 13, 173, 0.3);
 }
